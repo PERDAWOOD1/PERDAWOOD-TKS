@@ -1,4 +1,5 @@
 📦 Software Overview
+
 1-Geek+ Robot Error Tracker
 A monitoring tool designed to track various error types in Geek+ robots. When an error is detected, the system automatically connects to the affected bots and sends instant alerts via the WeCom application to the team’s group chat. The software integrates multiple APIs and includes custom features tailored to specific operational requirements.
 
